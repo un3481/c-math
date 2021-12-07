@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1578263534 source:/home/mises/Prog/power-series-complex/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1578294676 source:/home/mises/Prog/math/Series-Taylor/power-series-complex/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1578294676 source:/home/mises/Documentos/Prog/math/Complex-Analisis/power-series-complex/main.c
+	<stdio.h>
+	<stdlib.h>
+

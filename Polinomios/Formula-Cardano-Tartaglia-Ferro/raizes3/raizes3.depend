@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1570078340 source:/home/mises/Workstation/CodeBlocks Projects/raizes3/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1570078767 source:/home/mises/Documentos/math/Formula-Cardano-Tartaglia-Ferro/raizes3/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

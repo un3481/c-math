@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1570078946 source:/home/mises/Workstation/CodeBlocks Projects/raizes-complexo/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1571837320 source:/home/mises/Documentos/math/Formula-Moivre/raizes-complexo/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1571837320 source:/home/mises/Prog/math/Raiz-Enesima/raizn-complex/raizes-complexo/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

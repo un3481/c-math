@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1577871984 source:/home/mises/Prog/e-x-taylor-maclaurin/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1578264027 source:/home/mises/Documentos/math/Series-Taylor/e-x-taylor-maclaurin/main.c
+	<stdio.h>
+	<stdlib.h>
+

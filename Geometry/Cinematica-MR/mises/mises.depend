@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1566070268 source:/home/mises/workspace/mises/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1567075898 source:/home/mises/Workstation/CodeBlocks Projects/mises/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

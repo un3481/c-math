@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1571523264 source:/home/mises/Workstation/CodeBlocks Projects/raizn/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1571613620 source:/home/mises/Documentos/math/Raiz-Enesima/raizn/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1571613620 source:/home/mises/Prog/math/Raiz-Enesima/raizn/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

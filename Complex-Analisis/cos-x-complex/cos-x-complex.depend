@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1578295634 source:/home/mises/Prog/cos-x-complex/main.c
+	<stdio.h>
+	<stdlib.h>
+
