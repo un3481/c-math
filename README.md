@@ -1,3 +1,3 @@
 # c-math
 
-Some experiences with C and high-performance Mathematical calculations
+Math calculations using taylor series
